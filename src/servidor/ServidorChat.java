@@ -19,7 +19,7 @@ import static util.Util.version;
  * Es decir, una vez recibido el mensaje del cliente, lo mostramos por pantalla y se lo enviamos de vuelta al cliente.
  * Esta tarea la realiza el hilo asociado a un objeto GestorCliente.
  *
- * @author Eduardo Barra Balao
+ * @author Jordan Mejia
  * @version 0.3.2
  */
 public class ServidorChat {
