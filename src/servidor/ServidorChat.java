@@ -20,7 +20,7 @@ import static util.Util.version;
  * Esta tarea la realiza el hilo asociado a un objeto GestorCliente.
  *
  * @author Jordan Mejia
- * @author Jordan Mejia2
+ * @author Jordan Mejia3
  * @version 0.3.2
  */
 public class ServidorChat {
